@@ -1,0 +1,40 @@
+
+#fullscreen{
+ position: relative;
+ left: 5%;
+font-family: sans-serif;
+}
+
+.end{
+position: relative;
+down: 10%
+}
+
+
+.title {
+font-size: 400%;
+font-weight: lighter;
+}
+h2
+{
+font-size: 200%;
+font-weight: lighter;
+font-family: sans-serif;
+}
+
+
+section {
+font-size: 120%;
+font-weight: lighter;
+font-family: sans-serif;
+  float: left;
+  width: 50%;
+
+}
+aside {
+font-size: 120%;
+font-weight: lighter;
+font-family: sans-serif;
+  float: right;
+  width: 50%;
+}
